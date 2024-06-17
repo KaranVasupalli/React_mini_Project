@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.cart{
+  width: 400px;
+  border: 2px solid black;
+}
+
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  padding: 2rem;
+}
